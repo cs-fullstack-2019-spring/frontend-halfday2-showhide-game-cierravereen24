@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: I know u had to leave early
+
 # JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
